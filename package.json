@@ -25,7 +25,7 @@
     "react-live": "2.2.3",
     "rehype-autolink-headings": "4.0.0",
     "rehype-slug": "3.0.0",
-    "swr": "0.3.8"
+    "swr": "0.5.6"
   },
   "devDependencies": {
     "@next/bundle-analyzer": "9.4.4",
